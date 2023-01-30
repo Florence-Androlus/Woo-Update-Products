@@ -1,0 +1,14 @@
+{
+    "name": "androlus/woo-add-delete-products",
+    "authors": [
+        {
+            "name": "Androlus Florence",
+            "email": "contact@fan-develop.fr"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"wdp\\": "."}   
+    }
+
+}
